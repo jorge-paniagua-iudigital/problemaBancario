@@ -86,8 +86,7 @@ Se analizaron los siguientes escenarios:
 .
 ├── Laboratorio_Problema_Bancario.ipynb
 ├── resultados_banco.xlsx
-├── README.md
-└── documento_final.docx
+└── README.md
 ```
 
 ---
